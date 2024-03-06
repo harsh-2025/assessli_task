@@ -1,6 +1,6 @@
 # Assessli React Assignment
 
-This project is a React assignment for Assessli. It aims to create a dynamic and visually appealing contact page using React. The contact page includes a form with fields for name, email, phone, and message. Upon form submission, a React toast indicates successful submission. The project integrates with Google Sheets, and the form data is being submitted to [https://docs.google.com/spreadsheets/d/1BPo1kK03-dp0APQEjyPVVdhEVobWfmgo1eGnT5wsV9Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BPo1kK03-dp0APQEjyPVVdhEVobWfmgo1eGnT5wsV9Y/edit?usp=sharing), where the proper working of the form can be checked.
+This project is a React assignment for Assessli. It aims to create a dynamic and visually appealing contact page using React. The contact page includes a form with fields for name, email, phone, and message. Upon form submission, a React toast indicates successful submission. The project integrates with Google Sheets, and the form data is being submitted to [https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing), where the proper working of the form can be checked.
 
 ## Features
 
@@ -24,11 +24,11 @@ This project is a React assignment for Assessli. It aims to create a dynamic and
 
 ## Google Sheets Integration
 
-The project integrates with Google Sheets, and the form data is being submitted to [https://docs.google.com/spreadsheets/d/1BPo1kK03-dp0APQEjyPVVdhEVobWfmgo1eGnT5wsV9Y/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1BPo1kK03-dp0APQEjyPVVdhEVobWfmgo1eGnT5wsV9Y/edit?usp=sharing), where you can check the data submitted to the form.
+The project integrates with Google Sheets, and the form data is being submitted to [https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing), where you can check the data submitted to the form.
 
 
 ## Additional Information
 
 - The project uses React for frontend development.
 - For any issues or suggestions, please contact me.
-Email: [yazdaalizaidi@gmail.com](mailto:yazdaalizaidi@gmail.com)
+Email: [harshofficialrawat@gmail.com](mailto:harshofficialrawat@gmail.com)
